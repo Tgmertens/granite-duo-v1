@@ -1,6 +1,6 @@
 # granite-duo-v1
 
-*Julian A. Gonzalez, 10-25-2025*
+
 
 ## Dual-Agent System: IBM Granite3-MoE:1B
 
